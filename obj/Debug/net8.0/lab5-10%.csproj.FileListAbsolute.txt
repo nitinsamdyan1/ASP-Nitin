@@ -1,0 +1,40 @@
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\appsettings.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\lab5-10%.staticwebassets.runtime.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\lab5-10%.exe
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\lab5-10%.deps.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\lab5-10%.runtimeconfig.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\lab5-10%.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\lab5-10%.pdb
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.csproj.AssemblyReference.cache
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.AssemblyInfoInputs.cache
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.AssemblyInfo.cs
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.csproj.CoreCompileInputs.cache
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.RazorAssemblyInfo.cache
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.RazorAssemblyInfo.cs
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\staticwebassets\msbuild.lab5-10%.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\staticwebassets\msbuild.build.lab5-10%.props
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lab5-10%.props
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lab5-10%.props
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\scopedcss\bundle\lab5-10%.styles.css
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\scopedcss\projectbundle\lab5-10%.bundle.scp.css
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.csproj.Up2Date
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\refint\lab5-10%.dll
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.pdb
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\lab5-10%.genruntimeconfig.cache
+C:\Users\Paras Mittal\source\repos\lab5-10%\lab5-10%\obj\Debug\net8.0\ref\lab5-10%.dll
+C:\Users\14375\Downloads\lab5asp\obj\Debug\net8.0\lab5-10%.dll
+C:\Users\14375\Downloads\lab5asp\obj\Debug\net8.0\refint\lab5-10%.dll
+C:\Users\14375\Downloads\lab5asp\obj\Debug\net8.0\lab5-10%.pdb
